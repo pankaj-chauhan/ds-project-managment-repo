@@ -1,4 +1,4 @@
-ds-project-managment-repo
+ds-project-management-repo
 ==============================
 
 To Learn how to manage the data science projects
@@ -55,3 +55,4 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
