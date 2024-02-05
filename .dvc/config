@@ -1,2 +1,5 @@
 [core]
     analytics = false
+    remote = remote
+['remote "remote"']
+    url = ../tmp
